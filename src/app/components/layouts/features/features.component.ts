@@ -14,27 +14,27 @@ export class FeaturesComponent implements OnInit {
 
     sectionTitle: sectionTitleContent[] = [
         {
-            subTitle: 'Our Features',
-            title: 'We Always Try To Understand Users Expectation',
-            paragraphText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+            subTitle: 'Todo Lo hacemos con amor',
+            title: 'Cuatro Patas',
+            paragraphText: 'Este es un sitio donde podràs encontras todo para tus mascotas'
         }
     ]
 
     singleFeatures: singleFeaturesContent[] = [
         {
-            icon: 'icofont-edit',
-            title: 'Creative Design',
-            paragraphText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus velit nec.'
+            icon: 'icofont-dog',
+            title: 'Servicio a domicilio',
+            paragraphText: '24/7'
         },
         {
-            icon: 'icofont-upload-alt',
-            title: 'Market Strategy',
-            paragraphText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus velit nec.'
+            icon: 'icofont-cat',
+            title: 'Veterinario',
+            paragraphText: '24/7'
         },
         {
-            icon: 'icofont-pie-chart',
-            title: 'Business Growth',
-            paragraphText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus velit nec.'
+            icon: 'icofont-pig',
+            title: 'La mejor comida en un solo sitio',
+            paragraphText: 'Preguntanos.'
         }
     ]
 
