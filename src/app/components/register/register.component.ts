@@ -33,4 +33,5 @@ export class RegisterComponent implements OnInit {
      })
      .catch(error => console.log(error))
   }
+  
 }
